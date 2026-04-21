@@ -53,10 +53,10 @@ const AudioCtx = window.AudioContext || window.webkitAudioContext;
 let audioCtx = null;
 
 const barkSounds = [
-  new Audio('../audios/ladrido1.wav'),
-  new Audio('../audios/ladrido3.wav'),
-  new Audio('../audios/ladrido4.ogg'),
-  new Audio('../audios/ladrido5.mp3'),
+  new Audio('audios/ladrido1.wav'),
+  new Audio('audios/ladrido3.wav'),
+  new Audio('audios/ladrido4.ogg'),
+  new Audio('audios/ladrido5.mp3'),
 ];
 
 function bark() {
