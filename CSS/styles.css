@@ -33,8 +33,8 @@ body {
 
 .bg-text span {
   font-family: Helvetica, 'Helvetica Neue', Arial, sans-serif;
-  font-weight: 10;
-  font-size: 2vw;
+  font-weight: 20;
+  font-size: 4vw;
   text-transform: uppercase;
   letter-spacing: -0.02em;
   pointer-events: auto;
